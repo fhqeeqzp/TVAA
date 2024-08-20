@@ -1,9 +1,9 @@
 source_file = "user_demo.txt"
 final_file = "user_result.txt"
 favorite_list = [
-        "CCTV1-综合", "CCTV2", "CCTV3", "CCTV4", "CCTV5", "CCTV6", "CCTV7", "CCTV8",
-        "CCTV9", "CCTV10", "CCTV11", "CCTV12", "CCTV13", "CCTV14", "CCTV15", "CCTV16",
-        "CCTV17", "CCTV5+", "CCTV4K", "CCTV8K", "CGTN记录", "CCTV风云剧场", "CCTV风云音乐", "CCTV风云足球",
+        "CCTV-1", "CCTV-2", "CCTV-3", "CCTV-4", "CCTV-5", "CCTV-6", "CCTV-7", "CCTV-8",
+        "CCTV-9", "CCTV-10", "CCTV-11", "CCTV-12", "CCTV-13", "CCTV-14", "CCTV-15", "CCTV-16",
+        "CCTV-17", "CCTV-5+", "CCTV-4K", "CCTV-8K", "CGTN记录", "CCTV风云剧场", "CCTV风云音乐", "CCTV风云足球",
         "CCTV第一", "CCTV怀旧", "CCTV央视台球", "CCTV央视文化", "CCTV兵器", "CCTV卫生", "CCTV世界",
         "CCTV高尔夫", "CETV1", "CETV2", "CETV3", "CETV4", "北京卫视", "天津卫视", "河北卫视", "山西卫视", "内蒙古卫视", "辽宁卫视", "吉林卫视", "黑龙江卫视",
         "东方卫视", "江苏卫视", "浙江卫视", "安徽卫视", "江西卫视", "山东卫视", "山东体育", "河南卫视",
